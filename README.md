@@ -1,15 +1,27 @@
-# 💫 About Me:
-## Hi there 👋 I'm Maaz<br><br>I'm a **production-focused AI & Agentic Systems Engineer** specializing in building **reliable, scalable, multi-agent systems** and **high-concurrency ML pipelines** that operate under real-world constraints.<br><br>I work at the intersection of **agentic architecture, large-context LLM systems, and ML infrastructure**, with a strong emphasis on **operational reliability, cost optimization, privacy, and latency SLAs**.<br><br>---<br><br>### 💼 What I Do<br>- Architect **hierarchical multi-agent systems** using LangGraph, Google Antigravity, and MCP<br>- Design **agentic memory systems** (semantic + episodic) leveraging million-token context windows<br>- Deploy **privacy-aware, fault-tolerant APIs** for sensitive and regulated datasets<br>- Scale **high-throughput inference services** for 1M+ record workloads with sub-second latency<br>- Optimize **LLM orchestration costs** via batching, caching, and pipeline-level efficiencies<br><br>---<br><br>### 🛠️ Core Technologies<br>**Agentic & Orchestration**<br>- LangGraph, Google Antigravity, Mission Control, MCP, CrewAI  <br>- ReAct patterns, multi-agent loops, LLM-as-a-Judge, TruLens<br><br>**Models & ML**<br>- Gemini (2.0, 3 Pro via Vertex AI), Claude 3.5 Sonnet  <br>- PyTorch, TensorFlow<br><br>**Infrastructure & MLOps**<br>- Docker, Kubernetes, Terraform, GitHub Actions  <br>- Azure, GCP, Databricks, MLflow  <br>- CI/CD, sandboxing, permissioned tool execution<br><br>**Languages**<br>- Python (primary), SQL, JavaScript, Java, C++, Bash<br><br>---<br><br>### 📌 Experience Highlights<br>- Automated large-scale public health research by orchestrating autonomous agents, reducing manual analysis time by **50%**<br>- Reduced LLM hallucinations by **40%** through structured agentic memory and evaluation harnesses<br>- Scaled inference pipelines for **1M+ record datasets** while maintaining **sub-second latency SLAs**<br>- Cut LLM pipeline costs by **20%** using advanced batching and vector-store caching<br>- Built CI/CD pipelines with automated prompt regression testing for rapid, safe deployment<br><br>---<br><br>### 🎓 Education<br>- **MS in Cybersecurity** — Drexel University  <br>- **BS in Computer Science & Engineering** — Presidency University<br><br>---<br><br>### 🤝 Interests & Collaboration<br>I'm excited to collaborate on:<br>- Agentic systems & autonomous workflows<br>- LLM infrastructure and production ML<br>- Evaluation, observability, and reliability for AI systems<br>- Cost-aware orchestration and memory architectures<br><br>---<br><br>### 📫 Get in Touch<br>- GitHub: [github.com/maazbinthuri](https://github.com/maazbinthuri)<br>- LinkedIn: [linkedin.com/in/maazbinthuri](https://www.linkedin.com/in/maazbinthuri/)<br>- Email: maazbinthuri@gmail.com<br><br>---<br><br>⚡ *I care deeply about shipping AI systems that actually work in production.*
+# 💫 About Me
 
+Hi 👋 I'm **Maaz** — a **production-focused AI & Agentic Systems Engineer**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maazbinthuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=maazbinthuri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maazbinthuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build **reliable, scalable multi-agent systems** and **ML pipelines** designed for real-world production. My work focuses on agent orchestration, large-context LLM systems, privacy-aware APIs, and low-latency inference at scale.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I care deeply about **shipping AI systems that actually work in production** — reliable, cost-efficient, and fast.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠 What I Work On
+- Multi-agent systems & autonomous workflows  
+- Large-context and agentic memory architectures  
+- High-throughput, low-latency LLM inference  
+- Production ML infrastructure & MLOps  
+
+---
+
+### 🔧 Tech I Use
+LangGraph · Google Antigravity · Gemini · Claude · Python · Docker · Kubernetes · Azure · GCP · CI/CD
+
+---
+
+### 📫 Connect
+- GitHub: https://github.com/maazbinthuri  
+- LinkedIn: https://www.linkedin.com/in/maazbinthuri/  
+- Email: maazbinthuri@gmail.com
