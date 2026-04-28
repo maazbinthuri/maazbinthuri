@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 Hi 👋 I'm **Maaz** — a **production-focused AI & Agentic Systems Engineer**.
 
@@ -8,7 +8,7 @@ I care deeply about **shipping AI systems that actually work in production** —
 
 ---
 
-### 🛠 What I Work On
+### What I Work On
 - Multi-agent systems & autonomous workflows  
 - Large-context and agentic memory architectures  
 - High-throughput, low-latency LLM inference  
@@ -16,12 +16,12 @@ I care deeply about **shipping AI systems that actually work in production** —
 
 ---
 
-### 🔧 Tech I Use
+### Tech I Use
 LangGraph · Google Antigravity · Gemini · Claude · Python · Docker · Kubernetes · Azure · GCP · CI/CD
 
 ---
 
-### 📫 Connect
+### Connect
 - GitHub: https://github.com/maazbinthuri  
 - LinkedIn: https://www.linkedin.com/in/maazbinthuri/  
 - Email: maazbinthuri@gmail.com
